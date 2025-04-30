@@ -28,9 +28,6 @@
 Create a directory for the project:
 ```bash
 mkdir Axis-MoCap
-```
-Navigate to the project directory:
-```bash
 cd Axis-MoCap
 ```
 Clone the repository:
