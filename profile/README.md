@@ -21,27 +21,7 @@
 ### Clone the repository
 1. Open a terminal (Command Prompt or PowerShell for Windows, Terminal for macOS or Linux)
   
-3. Ensure Git is installed (Visit [https://git-scm.com](https://git-scm.com/downloads) to download and install Git if not already installed)
-   
-- Linux
-  ```shell
-  sudo apt-get install git
-  ```
-  or
-  ```shell
-  sudo pacman -S git
-  ```
-
-- Windows
-  ```shell
-  choco install git
-  ```
-
-- MacOS
-  ```shell
-  brew install git
-  ```
-
+2. Ensure Git is installed (Visit [https://git-scm.com](https://git-scm.com/downloads) to download and install Git if not already installed)
   
 3. Clone the repository:
 
