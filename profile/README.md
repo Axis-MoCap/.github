@@ -1,7 +1,5 @@
 # Axis - Advanced Motion Capture System
 
-![TeXpo-Kinetic-Canvas-project](https://github.com/user-attachments/assets/e8841c4d-15b3-47b4-9a23-822bd7174ac8)
-
 **Axis** is 
 
 - **Modularity**: 
@@ -16,6 +14,7 @@
 
 **Works alongside**: ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white) ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=flat&logo=google%20chrome&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)
 
+![TeXpo-Kinetic-Canvas-project](https://github.com/user-attachments/assets/e8841c4d-15b3-47b4-9a23-822bd7174ac8)
 
 ---
 
