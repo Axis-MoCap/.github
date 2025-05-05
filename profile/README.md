@@ -1,8 +1,11 @@
 # Axis - Advanced Motion Capture System
 
+![TeXpo-Kinetic-Canvas-project](https://github.com/user-attachments/assets/e8841c4d-15b3-47b4-9a23-822bd7174ac8)
+
 **Axis** is 
 
 - **Modularity**: 
+
 - **Scalability**:
 - **Maintainability**: 
 
