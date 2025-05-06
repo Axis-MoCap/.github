@@ -34,7 +34,7 @@ cd Axis-MoCap
 ```
 Clone the repository:
 ```bash
-git clone https://github.com/Axis-MoCap/Axis-UI.git
+git clone https://github.com/Axis-MoCap/axis_pi5.git
 ```
 
 ### Run the flutter app:
@@ -42,7 +42,7 @@ git clone https://github.com/Axis-MoCap/Axis-UI.git
 1. Make sure you have Flutter installed
 2. Run the app
 ```bash
-cd Axis-UI
+cd axis_pi5
 flutter pub get
 flutter run
 ```
